@@ -1,4 +1,4 @@
-# Quantum-Enhanced Climate Risk Insurance Model
+# RISQ: A Quantum-Enhanced Climate Risk Insurance Model
 
 **Team:** Quantum HQ  
 **Phase:** 3 Implementation for World Bank Global Industry Challenge 2025
