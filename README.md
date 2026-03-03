@@ -20,7 +20,7 @@
 - [Contact](#contact)
 
 ## Overview
-The Quantum-Enhanced Climate Risk Insurance Model leverages both quantum computing algorithms and classical machine learning techniques to provide faster, more accurate assessments of climate-related risks. This allows insurers, reinsurers, and governments to dynamically price insurance products against extreme weather events, improving capital allocation and accessibility.
+RISQ leverages both quantum computing algorithms and classical machine learning techniques to provide faster, more accurate assessments of climate-related risks. This allows insurers, reinsurers, and governments to dynamically price insurance products against extreme weather events, improving capital allocation and accessibility.
 
 ## Features
 - **Quantum Amplitude Estimation** (QAE) for efficient payout distribution estimation  
