@@ -1,23 +1,6 @@
 # RISQ: A Quantum-Enhanced Climate Risk Insurance Model
 
-**Team:** Quantum HQ  
-**Phase:** 3 Implementation for World Bank Global Industry Challenge 2025
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Data Simulation](#data-simulation)
-- [Quantum Pipeline](#quantum-pipeline)
-- [Classical ML Pipeline](#classical-ml-pipeline)
-- [API Endpoints](#api-endpoints)
-- [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## World Bank Global Industry Challenge Finalist
 
 ## Overview
 RISQ leverages both quantum computing algorithms and classical machine learning techniques to provide faster, more accurate assessments of climate-related risks. This allows insurers, reinsurers, and governments to dynamically price insurance products against extreme weather events, improving capital allocation and accessibility.
